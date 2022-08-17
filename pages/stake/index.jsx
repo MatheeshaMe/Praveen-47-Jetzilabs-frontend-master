@@ -1,8 +1,8 @@
 import { Stack, Typography } from "@mui/material";
 import React, { useState } from "react";
 import StakingDapp from "../../src/components/StakingDapp/StakingDapp";
-import img_01 from "../../src/assets/images/test/img_01.png";
-import img_02 from "../../src/assets/images/test/img_02.png";
+import img_01 from "../../src/assets/images/test/img_01.gif";
+import img_02 from "../../src/assets/images/test/img_02.gif";
 import ClaimCard from "../../src/components/CardComponents/ClaimCard";
 import ConfirmationDialog, {
   initOpenConfirmationDialog,
