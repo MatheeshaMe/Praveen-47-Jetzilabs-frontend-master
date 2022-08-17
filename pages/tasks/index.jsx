@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { CardComponentWithDeleteBtn } from "../../src/components/CardComponents/CardComponent";
 import ConfirmationDialog, {
   initOpenConfirmationDialog,
-} from "../../src/components/DialogComponents/confirmationDialog";
+} from "../../src/components/DialogComponents/ConfirmationDialog";
 import LoadingComponent, {
   DialogTypes,
   initOpenDialog,
